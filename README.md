@@ -11,7 +11,13 @@
 
 ## Проекты:
 
-1. [Анализ оттока клиентов банка «Метанпромбанк»](https://github.com/GeorgievaYoana/-potato/blob/c6a547ca2701346d47ee97d60824c6650b474634/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%20%C2%AB%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA%C2%BB.ipynb)
+1. [Задачи по Excel](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BF%D0%BE%20excel.xlsx)
+
+    **Цель исследования** — решить задачи по товарообороту.
+   
+   **Инструменты** |`Excel` `Сводные таблицы` `Гистограммы` 
+
+2. [Анализ оттока клиентов банка «Метанпромбанк»](https://github.com/GeorgievaYoana/-potato/blob/c6a547ca2701346d47ee97d60824c6650b474634/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0%20%C2%AB%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA%C2%BB.ipynb)
 
    **Цель исследования** — анализ сегментов клиентов банка, уходящих и склонных к уходу. Проверка гипотез причин оттока клиентов.
    
@@ -23,26 +29,26 @@
    
    **Инструменты** |`Python` `Pandas` `Matplotlib` `Seaborn` `PowerPoint`
    
-5. [Исследование рынка видеоигр](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb)
+4. [Исследование рынка видеоигр](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb)
 
    **Цель исследования** — выявить определяющие успешность игры закономерности. Для этого обработаем и исследуем имеющиеся данные, составим портрет пользователя каждого региона ((NA, EU, JP)) и проверим гипотезы:средние пользовательские рейтинги платформ Xbox One и PC одинаковые; Средние пользовательские рейтинги жанров Action и Sports разные.
    
    **Инструменты** |`Python` `Pandas` `Matplotlib` `Seaborn` `numpy` `PowerPoint`
    
-7. [Проект по SQL](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20SQL%20(1).ipynb)
+5. [Проект по SQL](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20SQL%20(1).ipynb)
 
     **Цель исследования** — исследовать базу данных, содержащую информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг для подготовки рекомендации заказчику.
    
    **Инструменты** |`Python` `Pandas` `SQL`
 
-9. [Проект по А/B-тестированию](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%90%D0%92%D0%B3%D0%B5%D0%BE%D1%80%D0%B8%D0%B3%D0%B5%D0%B2%D0%B0%20(2).ipynb)
+6. [Проект по А/B-тестированию](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%90%D0%92%D0%B3%D0%B5%D0%BE%D1%80%D0%B8%D0%B3%D0%B5%D0%B2%D0%B0%20(2).ipynb)
 
    **Цель исследования** — провести оценку результатов A/B-теста. Удостовериться, что нет пересечений с конкурирующим тестом и нет пользователей, участвующих в двух группах теста одновременно;
       Проверить равномерность распределения пользователей по тестовым группам и правильность их формирования.
    
    **Инструменты** |`Python` `Pandas` `Matplotlib` `Seaborn` `numpy` `Scipy.stats`
    
-11. [Анализ пользователей мобильного приложения продуктов питания](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)
+7. [Анализ пользователей мобильного приложения продуктов питания](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)
 
     **Цель исследования** — проанализировать поведение пользователей мобильного приложения продуктов питания через воронку продаж, интерпретация результатов A/A/B-эксперимента новых шрифтов в приложение.
    
