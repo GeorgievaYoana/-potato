@@ -11,7 +11,7 @@
 
 ## Проекты:
 
-1. [Задачи по Excel](https://github.com/GeorgievaYoana/-potato/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BF%D0%BE%20excel.xlsx)
+1. [Задачи по Excel](https://github.com/GeorgievaYoana/-ruby/blob/681336209c9c024ed37342286b45ba78a7e5b168/excel%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.xlsx)
 
     **Цель исследования** — решить задачи по товарообороту.
    
